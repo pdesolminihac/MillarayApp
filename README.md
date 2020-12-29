@@ -24,4 +24,4 @@ Note that the development build is not optimized.
 To create a production build, use yarn build.
 ```
 
-Hot reload should be working upon saving your JavaScript files.
+Hot reload should be working upon saving your JavaScript files
